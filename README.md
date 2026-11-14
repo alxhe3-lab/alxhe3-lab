@@ -9,6 +9,21 @@ J'utilise Claude (le chat et Claude Code) comme assistant d'études au quotidien
 - 🎧 **Version audio** de chaque cours, pour réviser en marchant ;
 - 🗓️ **Planification** des révisions (répétition espacée, feuille blanche, annales) avec une application que je construis avec Claude Code.
 
+#### Ma chaîne de travail
+
+```mermaid
+flowchart LR
+    A["🎙️ Cours enregistré"] --> B["📝 Transcription corrigée"]
+    B --> C["📚 Cours optimisé<br/>page illustrée + questions"]
+    N["✏️ Notes et diapos du prof"] --> C
+    C --> D["🃏 Cartes Anki"]
+    C --> E["🎧 Version audio"]
+    C --> F["❓ Banque de QCM"]
+    D --> G["🗓️ Révisions planifiées<br/>J+1, J+3, J+7"]
+    E --> G
+    F --> G
+```
+
 #### Projets publics
 
 | Projet | En deux mots |
