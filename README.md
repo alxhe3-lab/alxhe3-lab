@@ -29,6 +29,7 @@ flowchart LR
 | Projet | En deux mots |
 |---|---|
 | [**claude-explain-like-chatgpt**](https://github.com/alxhe3-lab/claude-explain-like-chatgpt) | Des skills pour que Claude explique comme ChatGPT : de belles fiches aérées, de gros titres, de vrais schémas, un QCM à la fin, et une version éclair pour un mot ou une capture d'écran. |
+| [**claude-inline-images**](https://github.com/alxhe3-lab/claude-inline-images) | Pour que Claude place chaque image juste sous la phrase qu'elle explique, au lieu de toutes les mettre à la fin : méthode testée, skill et scripts. |
 | [**schemas-medecine**](https://github.com/alxhe3-lab/schemas-medecine) | 425 schémas de médecine en français pour la 1re année (physiologie, biochimie, biophysique, anatomie), libres d'utilisation. |
 | [**pont-claude-code**](https://github.com/alxhe3-lab/pont-claude-code) | Une extension pour Claude Desktop qui relie une conversation à Claude Code sur ton ordinateur : le chat écrit la consigne, lance Claude Code, suit son travail et récupère le résultat. Plus de copier-coller. |
 | [**SymbolPill**](https://github.com/alxhe3-lab/SymbolPill) | Les symboles scientifiques introuvables au clavier (grec, exposants, ions, flèches) à un clic dans la barre des menus du Mac. Pratique pour prendre ses notes de cours. |
