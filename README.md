@@ -1,4 +1,4 @@
-### Bonjour 👋 Je suis Alexandre
+### Bonjour 👋
 
 Étudiant en **1re année de médecine**, passionné par **l'intelligence artificielle** et par la façon dont elle peut aider à apprendre mieux, plus vite et sans s'épuiser.
 
