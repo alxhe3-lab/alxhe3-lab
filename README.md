@@ -28,6 +28,7 @@ flowchart LR
 
 | Projet | En deux mots |
 |---|---|
+| [**claude-explain-like-chatgpt**](https://github.com/alxhe3-lab/claude-explain-like-chatgpt) | Des skills pour que Claude explique comme ChatGPT : de belles fiches aérées, de gros titres, de vrais schémas, un QCM à la fin, et une version éclair pour un mot ou une capture d'écran. |
 | [**pont-claude-code**](https://github.com/alxhe3-lab/pont-claude-code) | Une extension pour Claude Desktop qui relie une conversation à Claude Code sur ton ordinateur : le chat écrit la consigne, lance Claude Code, suit son travail et récupère le résultat. Plus de copier-coller. |
 | [**SymbolPill**](https://github.com/alxhe3-lab/SymbolPill) | Les symboles scientifiques introuvables au clavier (grec, exposants, ions, flèches) à un clic dans la barre des menus du Mac. Pratique pour prendre ses notes de cours. |
 | [**EmojiPill**](https://github.com/alxhe3-lab/EmojiPill) | Le même principe pour tes emojis préférés : une pilule dans la barre des menus, un clic, c'est copié. |
@@ -36,4 +37,4 @@ Si une idée t'intéresse ou si tu veux faire la même chose pour tes études, o
 
 ---
 
-*1st-year medical student, into AI. I use Claude to turn lectures into study pages, flashcards and audio, and I build small tools around it. See [pont-claude-code](https://github.com/alxhe3-lab/pont-claude-code), [SymbolPill](https://github.com/alxhe3-lab/SymbolPill) and [EmojiPill](https://github.com/alxhe3-lab/EmojiPill).*
+*1st-year medical student, into AI. I use Claude to turn lectures into study pages, flashcards and audio, and I build small tools around it. See [claude-explain-like-chatgpt](https://github.com/alxhe3-lab/claude-explain-like-chatgpt) (make Claude explain like ChatGPT), [pont-claude-code](https://github.com/alxhe3-lab/pont-claude-code), [SymbolPill](https://github.com/alxhe3-lab/SymbolPill) and [EmojiPill](https://github.com/alxhe3-lab/EmojiPill).*
